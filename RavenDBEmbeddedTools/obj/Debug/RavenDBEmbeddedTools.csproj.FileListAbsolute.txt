@@ -1,0 +1,14 @@
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Studio.Html5.zip
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\RavenDBEmbeddedTools.dll
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\RavenDBEmbeddedTools.pdb
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Abstractions.dll
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Client.Lightweight.dll
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Database.dll
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Abstractions.pdb
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Abstractions.xml
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Client.Lightweight.xml
+C:\Projets\Sandbox\RavenDBEmbeddedTools\bin\Debug\Raven.Database.pdb
+C:\Projets\Sandbox\RavenDBEmbeddedTools\obj\Debug\RavenDBEmbeddedTools.csprojResolveAssemblyReference.cache
+C:\Projets\Sandbox\RavenDBEmbeddedTools\obj\Debug\RavenDBEmbeddedTools.dll
+C:\Projets\Sandbox\RavenDBEmbeddedTools\obj\Debug\RavenDBEmbeddedTools.pdb

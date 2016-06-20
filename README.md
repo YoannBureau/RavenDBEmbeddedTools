@@ -1,7 +1,10 @@
 # RavenDBEmbeddedTools
 A wrapper that allows you to easily use a RavenDB Embedded NoSQL database : Add, Update, Delete and Query without any configuration.
 
-## How to use easily
+# Install
+```Install-Package RavenDBEmbeddedTools```
+
+# How to use easily
 Assuming the following class:
 ```c#
 public class Person
@@ -12,39 +15,39 @@ public class Person
 }
 ```
 
-### Insert
+## Insert
 ```c#
 var person = new Person() { FirstName = "Peter", LastName = "Smith" };
 RavenDBGenericCommands<Person>.Insert(person);
 ```
 
-### Update
+## Update
 ```c#
 RavenDBGenericCommands<Person>.Update(myInstanceOfPerson);
 ```
 
-### Delete
+## Delete
 ```c#
 RavenDBGenericCommands<Person>.Delete(myInstanceOfPerson.Id);
 ```
 
-### GetAll
+## GetAll
 ```c#
 var persons = RavenDBGenericCommands<Person>.GetAll();
 ```
 
-### GetById
+## GetById
 ```c#
 var person = RavenDBGenericCommands<Person>.GetById("people/1");
 ```
 
-### GetByFunc
+## GetByFunc
 ```c#
 Func<Person, bool> searchFunc = (x) => x.LastName.Contains("Smith");
 var persons = RavenDBGenericCommands<Person>.GetByFunc(searchFunc);
 ```
 
-### Count
+## Count
 ```c#
 var personCount = RavenDBGenericCommands<Person>.Count();
 ```
